@@ -99,6 +99,12 @@ Este proyecto es una API RESTful para una red social construida con Django y Dja
 
 ---
 
+## 🖼️ Vista Previa
+
+![API Swagger UI](swagger.jpg)
+
+---
+
 ## 📂 Estructura del Proyecto
 
 ```bash
@@ -115,7 +121,3 @@ Este proyecto es una API RESTful para una red social construida con Django y Dja
 ├── manage.py
 ├── requirements.txt
 ├── README.md
-
-## 🖼️ Vista Previa
-
-![API Swagger UI](swagger.jpg)
