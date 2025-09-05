@@ -33,7 +33,8 @@ THIRD_PARTY_APPS = [
     'corsheaders',
     'rest_framework',
     'rest_framework_simplejwt',
-    'channels'
+    'channels',
+    'drf_yasg',
 ]
 
 PROJECT_APPS = [
